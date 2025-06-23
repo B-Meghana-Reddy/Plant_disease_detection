@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints if you want (optional)
+*.h5
+*.keras
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
